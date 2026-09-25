@@ -68,7 +68,9 @@ An e-commerce website developed as part of my web development coursework. The ap
 
 ## 📊 GitHub Statistics
 
-GitHub statistics coming soon!
+![Caden's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Desertelk&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Desertelk&layout=compact&theme=github_dark)
 
 ## 🎓 Education
 
